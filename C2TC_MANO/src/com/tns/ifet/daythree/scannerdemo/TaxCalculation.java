@@ -1,4 +1,4 @@
-package com.tns.daythree.scannerdemo;
+package com.tns.ifet.daythree.scannerdemo;
 
 public class TaxCalculation {
 
